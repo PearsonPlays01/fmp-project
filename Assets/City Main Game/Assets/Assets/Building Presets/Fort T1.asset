@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1eec0bd67a4f2fe49aa7b7aafe10b6c7, type: 3}
-  m_Name: Church T3
+  m_Name: Fort T1
   m_EditorClassIdentifier: 
   displayName: 
-  cost: 40000
-  costPerTurn: 400
-  prefab: {fileID: 7652523018183567656, guid: 13486fb029cc8d8498d4859b13080e68, type: 3}
-  population: 30
-  jobs: 30
-  food: 30
+  cost: 0
+  costPerTurn: 0
+  prefab: {fileID: 0}
+  population: 0
+  jobs: 0
+  food: 0
