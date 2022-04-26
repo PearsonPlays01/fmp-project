@@ -15,7 +15,7 @@ MonoBehaviour:
   displayName: Manor
   cost: 30000
   costPerTurn: 1000
-  prefab: {fileID: 5776616961606964996, guid: 3fe386a0531aaa2478b6aef364ceaca6, type: 3}
+  prefab: {fileID: 191576828999054934, guid: b9aae40068108624f995d2ba50be37ee, type: 3}
   population: 50
   jobs: 20
   food: 10

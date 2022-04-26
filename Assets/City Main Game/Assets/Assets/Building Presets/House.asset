@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: House
   m_EditorClassIdentifier: 
   displayName: House
-  cost: 2000
+  cost: 5000
   costPerTurn: 200
-  prefab: {fileID: 8234517169280643042, guid: 4379f2e1ea07675459f75a86aea80d68, type: 3}
+  prefab: {fileID: 6373607213901491672, guid: 42b6e6ff24403ab44958406295493944, type: 3}
   population: 10
   jobs: 0
   food: 0

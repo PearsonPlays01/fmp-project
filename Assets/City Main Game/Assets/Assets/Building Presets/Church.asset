@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Church
   m_EditorClassIdentifier: 
   displayName: Church
-  cost: 3000
-  costPerTurn: 50
-  prefab: {fileID: 8996413518133633223, guid: d44a1446216be6e44ae375441b0e5fb7, type: 3}
-  population: 0
-  jobs: 5
-  food: 0
+  cost: 8000
+  costPerTurn: 80
+  prefab: {fileID: 6749138876385956305, guid: b6c0525866505204483d4e4dc3f376fa, type: 3}
+  population: 10
+  jobs: 10
+  food: 10

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Blacksmiths
   m_EditorClassIdentifier: 
   displayName: Blacksmiths
-  cost: 4000
+  cost: 6000
   costPerTurn: 100
-  prefab: {fileID: 8322621636993155392, guid: bfa83a69b43ee264d80ea002538638ec, type: 3}
+  prefab: {fileID: 5014314004413789313, guid: faf67fa683fa053459426d8de96d1232, type: 3}
   population: 0
   jobs: 20
   food: 0
