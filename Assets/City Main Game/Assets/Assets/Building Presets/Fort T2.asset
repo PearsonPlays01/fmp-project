@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Fort T2
   m_EditorClassIdentifier: 
   displayName: T2 Fort
-  cost: 50000
+  cost: 100000
   costPerTurn: 500
   prefab: {fileID: 464046177319313361, guid: fd03f0e34c2995b40a332e2f831dca42, type: 3}
   population: 200

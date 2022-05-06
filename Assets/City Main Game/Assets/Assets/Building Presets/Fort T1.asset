@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Fort T1
   m_EditorClassIdentifier: 
   displayName: 
-  cost: 0
-  costPerTurn: 0
-  prefab: {fileID: 0}
-  population: 0
-  jobs: 0
-  food: 0
+  cost: 70000
+  costPerTurn: 700
+  prefab: {fileID: 2447095764500225738, guid: 9c78e69daebc8ec44bcbf7869b2c7fef, type: 3}
+  population: 100
+  jobs: 100
+  food: 50
