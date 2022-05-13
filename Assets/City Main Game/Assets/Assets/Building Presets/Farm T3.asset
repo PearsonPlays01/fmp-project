@@ -15,7 +15,7 @@ MonoBehaviour:
   displayName: 
   cost: 30000
   costPerTurn: 300
-  prefab: {fileID: 7022186743817891390, guid: e0a3a272753ec0d438a39d41f0406f77, type: 3}
+  prefab: {fileID: 3510335211901874357, guid: 08ba41e409a162c4db3fba40c6d8f8ff, type: 3}
   population: 0
   jobs: 30
   food: 60
