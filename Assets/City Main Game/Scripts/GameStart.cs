@@ -25,8 +25,8 @@ public class GameStart : MonoBehaviour
 
     public void Sandbox()
     {
-        SceneManager.LoadScene("Help");
-        GameState.GameGameModeToCompaign(false);
+        SceneManager.LoadScene("Sandbox");
+        GameState.GameGameModeToCompaign(true);
     }
 
     public void Quit()

@@ -15,7 +15,7 @@ MonoBehaviour:
   displayName: Tier 3 Castle
   cost: 200000
   costPerTurn: 0
-  prefab: {fileID: 2027798798419819787, guid: 0cd8d5f43f2b05d48acdcc87b28d9ecc, type: 3}
+  prefab: {fileID: 5500526050391937039, guid: b3e28b2d319a67949b157a0e121abf59, type: 3}
   population: 300
   jobs: 300
   food: 200

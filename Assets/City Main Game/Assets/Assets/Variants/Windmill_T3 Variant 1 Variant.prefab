@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3510335211901874357, guid: 08ba41e409a162c4db3fba40c6d8f8ff, type: 3}
       propertyPath: m_Name
-      value: Windmill_T3 Variant 1
+      value: Windmill_T3 Variant 1 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3510335211901874358, guid: 08ba41e409a162c4db3fba40c6d8f8ff, type: 3}
       propertyPath: m_RootOrder
